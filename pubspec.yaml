@@ -18,7 +18,10 @@ dependencies:
   flutter_markdown_plus: ^1.0.5
   video_player: ^2.5.0
   cached_network_image: ^3.4.1
-
+  chewie: ^1.7.0
+  google_fonts: ^5.0.0
+  image_picker: ^1.2.0
+  
 
 dev_dependencies:
   flutter_test:
